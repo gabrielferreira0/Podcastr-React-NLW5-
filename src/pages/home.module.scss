@@ -114,7 +114,6 @@ h2{
             text-transform : uppercase;
             font: 500 0.75rem Lexend , sans-serif;
             text-align: left;
-
         }
             td{
                 font-size: 0.875rem;
@@ -139,7 +138,7 @@ h2{
                     height: 2rem;
                     background:var(--white);
                     border: 1px solid var(--gray-100);
-                    border-radius: 0.675rem;
+                    border-radius: 0.5rem;
                     font-size: 0;
                     transition: filter 0.2s;
                     img{
